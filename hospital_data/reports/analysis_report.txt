@@ -1,0 +1,50 @@
+
+
+--- Analysis Report for Heart Rate (hospital_data/active_logs/heart_rate_log.log) ---
+
+Generated on: 2026-01-29_05:22:46
+
+---------- Heart Rate analysis -------
+
+
+Counts of accurrances for each Device
+-------------------------------------
+
+
+
+Fist recorded entry:
+
+
+Last recorded entry:
+
+
+--- End of Report ---
+
+
+
+
+
+
+--- Analysis Report for Heart Rate (hospital_data/active_logs/heart_rate_log.log) ---
+
+Generated on: 2026-01-29_05:33:40
+
+---------- Heart Rate analysis -------
+
+
+Counts of accurrances for each Device
+-------------------------------------
+
+
+
+Fist recorded entry:
+
+
+Last recorded entry:
+
+
+--- End of Report ---
+
+
+
+
